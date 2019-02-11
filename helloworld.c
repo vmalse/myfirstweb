@@ -1,7 +1,7 @@
 #include <studio.h>
 init main()
 {
-printf("Hello World");
+printf("New Hello World");
 return 0;
 }
 
